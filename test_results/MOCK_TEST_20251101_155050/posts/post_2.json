@@ -1,0 +1,50 @@
+{
+  "post_number": 2,
+  "type": "carousel",
+  "angle": "Problem-solution framework",
+  "hook": "5 biggest challenges in Islamic education today\n\n(and how technology is solving them)",
+  "body": "Swipe to see what's changing \u2192",
+  "cta": "Which challenge resonates most with you? 1, 2, 3, 4, or 5?",
+  "full_content": "5 biggest challenges in Islamic education today\n\n(and how technology is solving them)\n\nSwipe to see what's changing \u2192\n\n[See carousel slides below]\n\nWhich challenge resonates most with you? 1, 2, 3, 4, or 5?\n\n#IslamicEducation #EdTech #Innovation #MuslimTech #LearningRevolution",
+  "hashtags": [
+    "#IslamicEducation",
+    "#EdTech",
+    "#Innovation",
+    "#MuslimTech",
+    "#LearningRevolution"
+  ],
+  "carousel_slides": [
+    {
+      "slide_number": 1,
+      "headline": "Challenge #1: Information Overload",
+      "content": "Problem: Thousands of books, videos, articles - where to start?\n\nSolution: AI-curated learning paths based on your level and interests\n\nResult: Focus on what matters for YOUR journey"
+    },
+    {
+      "slide_number": 2,
+      "headline": "Challenge #2: Authenticity Questions",
+      "content": "Problem: How do you know if content is scholarly authentic?\n\nSolution: Every resource verified by qualified scholars\n\nResult: Learn with confidence and trust"
+    },
+    {
+      "slide_number": 3,
+      "headline": "Challenge #3: Limited Time",
+      "content": "Problem: Balancing work, family, and learning\n\nSolution: Bite-sized lessons that fit your schedule\n\nResult: Consistent progress without overwhelm"
+    },
+    {
+      "slide_number": 4,
+      "headline": "Challenge #4: One-Size-Fits-All",
+      "content": "Problem: Generic content doesn't match your learning style\n\nSolution: Personalized recommendations based on progress\n\nResult: Learn at your pace, in your way"
+    },
+    {
+      "slide_number": 5,
+      "headline": "Challenge #5: Lack of Structure",
+      "content": "Problem: Random learning without clear progression\n\nSolution: Structured paths from beginner to advanced\n\nResult: See your growth and build systematically"
+    }
+  ],
+  "engagement_prediction": "high",
+  "schedule": {
+    "date": "Thursday, November 7, 2025",
+    "day": "Thursday",
+    "time": "11:00 AM",
+    "week": 1
+  }
+}

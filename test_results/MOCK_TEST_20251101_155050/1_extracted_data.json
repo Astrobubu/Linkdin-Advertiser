@@ -1,0 +1,22 @@
+{
+  "title": "Mufakkir - Islamic Learning Platform",
+  "description": "An AI-powered platform designed to help Muslims deepen their understanding of Islamic knowledge through personalized learning experiences and intelligent content recommendations.",
+  "features": [
+    "AI-powered Islamic content recommendations",
+    "Personalized learning paths",
+    "Hadith and Quran study tools",
+    "Scholar-verified content",
+    "Progress tracking and analytics",
+    "Community discussions"
+  ],
+  "target_audience": "Muslims seeking to deepen their Islamic knowledge, students of Islamic studies, and individuals looking for authentic Islamic learning resources",
+  "value_proposition": "Makes Islamic learning accessible, personalized, and efficient through AI-powered recommendations and curated scholarly content",
+  "category": "EdTech / Islamic Learning SaaS",
+  "pain_points": [
+    "Difficulty finding authentic Islamic content",
+    "Overwhelming amount of information available online",
+    "Lack of personalized learning paths",
+    "Need for verified scholarly sources",
+    "Limited time for structured learning"
+  ]
+}

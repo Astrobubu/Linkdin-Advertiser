@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     environment: str = "development"
 
     # OpenAI settings
-    openai_model: str = "gpt-4-turbo-preview"
+    openai_model: str = "gpt-4o"  # Latest model
     openai_temperature: float = 0.7
     max_tokens: int = 4000
 
@@ -26,7 +26,7 @@ class Settings(BaseSettings):
     ]
 
     class Config:
-        env_file = ".env"
+        env_file = "../.env"
         case_sensitive = False
 
 
